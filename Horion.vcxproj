@@ -303,6 +303,7 @@
     <ClCompile Include="Horion\Module\Modules\CubeGlide.cpp" />
     <ClCompile Include="Horion\Module\Modules\Derp.cpp" />
     <ClCompile Include="Horion\Module\Modules\EditionFaker.cpp" />
+    <ClCompile Include="Horion\Module\Modules\EntityInfoModule.cpp" />
     <ClCompile Include="Horion\Module\Modules\ESP.cpp" />
     <ClCompile Include="Horion\Module\Modules\FastEast.cpp" />
     <ClCompile Include="Horion\Module\Modules\FastLadder.cpp" />
@@ -359,7 +360,7 @@
     <ClCompile Include="Horion\Module\Modules\Tower.cpp" />
     <ClCompile Include="Horion\Module\Modules\Tracer.cpp" />
     <ClCompile Include="Horion\Module\Modules\TriggerBot.cpp" />
-	<ClCompile Include="Horion\Module\Modules\Twerk.cpp" />
+    <ClCompile Include="Horion\Module\Modules\Twerk.cpp" />
     <ClCompile Include="Horion\Module\Modules\VanillaPlus.cpp" />
     <ClCompile Include="Horion\Module\Modules\Velocity.cpp" />
     <ClCompile Include="Horion\Module\Modules\Waypoints.cpp" />
@@ -490,6 +491,7 @@
     <ClInclude Include="Horion\Module\Modules\CubeGlide.h" />
     <ClInclude Include="Horion\Module\Modules\Derp.h" />
     <ClInclude Include="Horion\Module\Modules\EditionFaker.h" />
+    <ClInclude Include="Horion\Module\Modules\EntityInfoModule.h" />
     <ClInclude Include="Horion\Module\Modules\ESP.h" />
     <ClInclude Include="Horion\Module\Modules\FastEat.h" />
     <ClInclude Include="Horion\Module\Modules\FastLadder.h" />
@@ -546,7 +548,7 @@
     <ClInclude Include="Horion\Module\Modules\Tower.h" />
     <ClInclude Include="Horion\Module\Modules\Tracer.h" />
     <ClInclude Include="Horion\Module\Modules\TriggerBot.h" />
-	<ClInclude Include="Horion\Module\Modules\Twerk.h" />
+    <ClInclude Include="Horion\Module\Modules\Twerk.h" />
     <ClInclude Include="Horion\Module\Modules\VanillaPlus.h" />
     <ClInclude Include="Horion\Module\Modules\Velocity.h" />
     <ClInclude Include="Horion\Module\Modules\Waypoints.h" />

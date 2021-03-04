@@ -125,6 +125,7 @@ public:
 	static void drawEntityBox(C_Entity* ent, float lineWidth);
 	static void draw2D(C_Entity* ent, float lineWidth);
 	static void drawNameTags(C_Entity* ent, float textSize, bool drawHealth = false, bool useUnicodeFont = false);
+	static void drawEntityInfoTags(C_Entity* ent, float textSize, bool showPos, bool drawHealth = false, bool useUnicodeFont = false);
 	static void drawItem(C_ItemStack* item, vec2_t ItemPos, float opacity, float scale, bool isEnchanted);
 	static void drawKeystroke(char key, vec2_t pos);
 	static float getLerpTime();

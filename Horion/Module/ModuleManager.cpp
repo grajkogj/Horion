@@ -103,6 +103,7 @@ void ModuleManager::initModules() {
 		this->moduleList.push_back(std::shared_ptr<IModule>(new VanillaPlus()));
 		this->moduleList.push_back(std::shared_ptr<IModule>(new Twerk()));
 		this->moduleList.push_back(std::shared_ptr<IModule>(new FollowPathModule()));
+		this->moduleList.push_back(std::shared_ptr<IModule>(new EntityInfoModule()));
 
 #ifdef _DEBUG
 		this->moduleList.push_back(std::shared_ptr<IModule>(new PacketLogger()));

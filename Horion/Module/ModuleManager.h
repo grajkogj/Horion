@@ -95,6 +95,7 @@
 #include "Modules/Radar.h"
 #include "Modules/VanillaPlus.h"
 #include "Modules/Twerk.h"
+#include "Modules/EntityInfoModule.h"
 
 #ifdef _DEBUG
 #include "Modules/PacketLogger.h"
